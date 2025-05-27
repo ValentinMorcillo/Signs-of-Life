@@ -1850,6 +1850,7 @@ MonoBehaviour:
   rotateSpeed: 0.2
   gm: {fileID: 191345688}
   itInt: {fileID: 963194231}
+  nr: {fileID: 191345690}
 --- !u!1 &779571424
 GameObject:
   m_ObjectHideFlags: 0
